@@ -1,0 +1,17 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.container .tab-card {
+  width: 100% !important;
+  max-width: 1200px;
+  min-width: 300px;
+  margin: 0 !important;
+  box-sizing: border-box;
+}
+
+.tab-content {
+  padding: 20px;
+  min-height: 200px;
+}
