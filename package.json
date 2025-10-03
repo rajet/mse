@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "create-project": "ng new"
+  },
+  "dependencies": {
+    "@angular/cli": "^20.3.4"
+  }
+}
